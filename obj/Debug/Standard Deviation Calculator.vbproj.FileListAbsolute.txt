@@ -1,0 +1,13 @@
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\Standard Deviation Calculator\bin\Debug\Standard Deviation Calculator.exe.config
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\Standard Deviation Calculator\bin\Debug\Standard Deviation Calculator.exe
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\Standard Deviation Calculator\bin\Debug\Standard Deviation Calculator.pdb
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\Standard Deviation Calculator\bin\Debug\Standard Deviation Calculator.xml
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\Standard Deviation Calculator\obj\Debug\Standard Deviation Calculator.vbproj.AssemblyReference.cache
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\Standard Deviation Calculator\obj\Debug\Standard_Deviation_Calculator.Form1.resources
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\Standard Deviation Calculator\obj\Debug\Standard_Deviation_Calculator.Resources.resources
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\Standard Deviation Calculator\obj\Debug\Standard Deviation Calculator.vbproj.GenerateResource.cache
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\Standard Deviation Calculator\obj\Debug\Standard Deviation Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\Standard Deviation Calculator\obj\Debug\Standard Deviation Calculator.exe
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\Standard Deviation Calculator\obj\Debug\Standard Deviation Calculator.xml
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\Standard Deviation Calculator\obj\Debug\Standard Deviation Calculator.pdb
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\Standard Deviation Calculator\obj\Debug\Standard_Deviation_Calculator.Form2.resources
